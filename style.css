@@ -35,7 +35,7 @@ main{
     width: 300px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(images/image-product-desktop.jpg);
     background-size: cover;}
 
 .right-content{
@@ -109,7 +109,7 @@ button:hover{
 
 @media (max-width: 40em) {
     .left-content{
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(images/image-product-mobile.jpg);
         background-size: cover;
         border-bottom-left-radius: 0px;
         border-top-right-radius: 10px;
